@@ -1,0 +1,4 @@
+001,Ion Popescu,1,ion@tum.md
+002,Maria Ionescu,1,maria@tum.md
+003,Nicu Nicolae,2,nicu@tum.md
+004,Daniela Duca,2,daniela@tum.md
